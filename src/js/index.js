@@ -35,6 +35,7 @@ function validarEntradas (nomeUsuario) {
 async function obterDadosDoUsuario (nomeDoUsuario) {
     
     const respostaDoUsuario = await getUsuario(nomeDoUsuario);
+    console.log(respostaDoUsuario);
 
     if (respostaDoUsuario.message === "Not Found") {
         tela.renderNotFound();

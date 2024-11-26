@@ -28,7 +28,7 @@ const tela = {
     },
 
     renderNotFound() {
-        this.perfilDoUsuario.innerHTML = "<h3>Usuário não encontrado.</h3>"
+        this.perfilDoUsuario.innerHTML = "<h3>Usuário não encontrado.</h3>";
     }
 }
 
