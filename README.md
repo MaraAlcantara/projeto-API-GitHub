@@ -1,4 +1,4 @@
-Nome: Mara Fabiana Pinheiro Alcântara
+Nome: Mara Fabiana Pinheiro Alcântara<br>
 RGM: 27055931
 
 Este projeto foi aprensetando ao curso de Engenharia de Software da Universidade Cruzeiro do Sul.
